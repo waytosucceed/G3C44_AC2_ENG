@@ -1,0 +1,241 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Who flies aeroplanes?",
+    "options": [
+      "Driver",
+      "Sailor",
+      "Pilot",
+      "Captain"
+    ],
+    "correct": 2,
+    "explanation": "A pilot is a person who is trained and licensed to fly aircraft. They control the aeroplane during takeoff, flight, and landing. Pilots make sure passengers travel safely from one place to another in the sky."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Who writes stories and books?",
+    "options": [
+      "Author",
+      "Artist",
+      "Actor",
+      "Announcer"
+    ],
+    "correct": 0,
+    "explanation": "An author is someone who writes books, stories, or articles. They use their imagination and writing skills to create interesting tales or share information with readers."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Who designs buildings?",
+    "options": [
+      "Labour",
+      "Architect",
+      "Painter",
+      "Sculptor"
+    ],
+    "correct": 1,
+    "explanation": "An architect is a person who designs buildings and structures. They create plans and drawings that show how a building will look and how it should be built. Architects make sure buildings are safe, useful, and beautiful."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Who makes bread and cakes?",
+    "options": [
+      "Artist",
+      "Waiter",
+      "Farmer",
+      "Baker"
+    ],
+    "correct": 3,
+    "explanation": "A baker is someone who makes bread, cakes, pastries, and other baked goods. They mix ingredients, shape dough, and use ovens to create delicious treats for people to enjoy."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Who travels to space?",
+    "options": [
+      "Pilot",
+      "Astronaut",
+      "Diver",
+      "Explorer"
+    ],
+    "correct": 1,
+    "explanation": "An astronaut is a person who is trained to travel and work in space. They fly in spacecraft, conduct experiments, and explore the universe beyond Earth."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": " Choose the correct word: <br> <img src='./6.png' width='130px'/>",
+    "options": [
+      "Doctor",
+      "Vet",
+      "Plumber",
+      "None of the above"
+    ],
+    "correct": 2,
+    "explanation": "A plumber is a person who fixes pipes and sinks in homes. In the image, if you see someone working with pipes or fixing a leaky sink, that’s a plumber!"
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Choose the correct word:  <br> <img src='./7.png' width='130px'/>",
+    "options": [
+      "Soldier",
+      "Architect",
+      "Painter",
+      "Fireman"
+    ],
+    "correct": 3,
+    "explanation": "A fireman works with a firetruck to put out fires and keep people safe. If you see a person in a fire suit next to a firetruck, that’s a fireman!"
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Choose the correct word: <br> <img src='./8.png' width='130px'/>",
+    "options": [
+      "Author",
+      "Artist",
+      "Baker",
+      "Pilot"
+    ],
+    "correct": 0,
+    "explanation": "An author is a person who writes books and stories. If you see someone writing in a notebook or typing on a computer to create a book, that’s an author!"
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Choose the correct word: <br> <img src='./9.png' width='130px'/>",
+    "options": [
+      "Astronaut",
+      "Astronomer",
+      "Photographer",
+      "Policeman"
+    ],
+    "correct": 2,
+    "explanation": "A photographer takes pictures with a camera. If you see someone holding a camera and taking photos, that’s a photographer!"
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Choose the correct word: <br> <img src='./10.png' width='130px'/>",
+    "options": [
+      "Vet",
+      "Artist",
+      "Chef",
+      "Engineer"
+    ],
+    "correct": 0,
+    "explanation": "A vet is a person who helps sick animals and gives them medicine. If you see someone taking care of a pet or giving an injection to an animal, that’s a vet!"
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "A __________ designs buildings and creates plans for new houses.",
+    "options": [
+      "Painter",
+      "Architect",
+      "Soldier",
+      "Decorator"
+    ],
+    "correct": 1,
+    "explanation": "An architect is a person who designs buildings. They create detailed plans and drawings that show how a building should look and be built. Architects make sure buildings are safe, useful, and beautiful."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "A __________ cuts and styles people's hair.",
+    "options": [
+      "Painter",
+      "Vet",
+      "Barber",
+      "Author"
+    ],
+    "correct": 2,
+    "explanation": "A barber is someone who cuts, trims, and styles hair, especially for men and boys. They use scissors, clippers, and other tools to give people the haircuts they want. Barbers often work in barbershops and can also trim beards and give shaves."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "A __________ teaches students in a school classroom.",
+    "options": [
+      "Principal",
+      "Artist",
+      "Nurse",
+      "Teacher"
+    ],
+    "correct": 3,
+    "explanation": "A teacher is a person who helps students learn new things. They work in schools, explaining subjects like math, science, and reading to help children grow and develop their knowledge and skills."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "A __________ puts out fires and rescues people from dangerous situations.",
+    "options": [
+      "Police Officer",
+      "Lifeguard",
+      "Firefighter"
+    ],
+    "correct": 2,
+    "explanation": "A firefighter is someone who is trained to put out fires and rescue people from dangerous situations. They use special equipment like fire trucks, hoses, and protective gear to keep communities safe from fire and other emergencies."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "A __________ grows fruits, vegetables, and raises animals on a farm.",
+    "options": [
+      "Farmer",
+      "Photographer",
+      "Astronaut",
+      "None of the above"
+    ],
+    "correct": 0,
+    "explanation": "A farmer is a person who grows crops like fruits and vegetables or raises animals for food. They work on farms, using their knowledge of plants and animals to produce food for many people."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Who makes decisions in a court of law?",
+    "options": [
+      "Lawyer",
+      "Police Officer",
+      "Judge",
+      "Detective"
+    ],
+    "correct": 2,
+    "explanation": "A judge is a person who presides over a court of law. They listen to evidence, interpret the law, and make fair decisions in legal cases. Judges help ensure justice is served."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Who studies science and does experiments?",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Pilot",
+      "Scientist"
+    ],
+    "correct": 3,
+    "explanation": "A scientist is a person who studies the natural world and conducts experiments to learn new things. They ask questions, make observations, and try to understand how things work in our world."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Who serves in the military to protect the country?",
+    "options": [
+      "Police Officer",
+      "Firefighter",
+      "Soldier",
+      "Watchman"
+    ],
+    "correct": 2,
+    "explanation": "A soldier is a person who serves in the army or military. They train to defend their country, help during emergencies, and sometimes participate in peacekeeping missions around the world."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Who organises books and helps people find information?",
+    "options": [
+      "Teacher",
+      "Librarian",
+      "Doctor",
+      "Artist"
+    ],
+    "correct": 1,
+    "explanation": "A librarian is a person who works in a library. They organise books, help people find information, and sometimes read stories to children. Librarians make sure libraries are useful places for learning and reading."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Soldier",
+      "Soldeir",
+      "Soljer",
+      "Solgier"
+    ],
+    "correct": 0,
+    "explanation": "The correct spelling is 'S-O-L-D-I-E-R.' A soldier is a person who helps protect the country, especially during a war."
+  }
+]
